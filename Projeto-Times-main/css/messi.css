@@ -1,0 +1,25 @@
+body {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+img{
+    width: 340x;
+    height: 340px;
+    border-radius: 3%;
+    border: 2px solid #ff0000
+}
+
+h3{
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+}
+
+
+h5{
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    font-size: x-large;
+}
